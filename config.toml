@@ -1,0 +1,4 @@
+baseURL = "https://militarytechnologies.ml/"
+languageCode = "en-us"
+title = "Military Technologies"
+theme = "dimension"
