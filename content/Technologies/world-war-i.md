@@ -13,13 +13,13 @@ The term "tank" was derived from British efforts to conceal new armaments under 
 
 ![tank](https://media.discordapp.net/attachments/914897555320619079/1048658091559895110/wwi-first-tank-versus-tank-battle.png?width=746&height=452)
 
-## Machine guns in World War 1
+### Machine guns in World War I
 
 Machine guns predated the First World War by a half-century and were widely used by 1914, but concerns about their function and efficacy limited their deployment in most pre-war forces. Most early war machine guns were heavy and stationary, necessitating the deployment of a team of troops.
 
 ![soldiers](https://media.discordapp.net/attachments/914897555320619079/1048662733178032220/WeaposnWWI_2000x577-e1647023041887.png?width=746&height=452)
 
-## Air warfare WW1
+### Air warfare in World War I
 
 Air raids by planes and airships began in 1915, bringing the reality of war to the home front. They became a regular danger, launching assaults on both civilian and industrial targets. The deployment of Zeppelin airships produced widespread dread in the United Kingdom, and the government capitalized on this fear to aid in the recruiting drive.
 
