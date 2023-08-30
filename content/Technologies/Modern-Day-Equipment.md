@@ -16,7 +16,7 @@ The M1 Abrams is widely regarded as one of the most advanced and capable main ba
 
 ### 5th Generation Fighter Aircraft
 
-The F-35 Lightning II is a fifth-generation, single-seat, single-engine, stealth-capable multirole fighter aircraft that was designed and developed by the United States with partners from several other countries, including the United Kingdom, Canada, and Australia. It was developed to be a versatile and affordable aircraft that could meet the needs of a range of missions, including air-to-air combat, air-to-ground attack, and intelligence, surveillance, and reconnaissance (ISR) operations.
+The F-35 Lightning II is a fifth-generation, single-seat, single-engine, stealth-capable multi-role fighter aircraft that was designed and developed by the United States with partners from several other countries, including the United Kingdom, Canada, and Australia. It was developed to be a versatile and affordable aircraft that could meet the needs of a range of missions, including air-to-air combat, air-to-ground attack, and intelligence, surveillance, and reconnaissance (ISR) operations.
 
 The F-35 features advanced stealth technology, which allows it to evade enemy radar detection and avoid being shot down by surface-to-air missiles. It is equipped with a range of sophisticated sensors and avionics, including advanced targeting systems, electronic warfare capabilities, and a helmet-mounted display system that provides pilots with critical information about the aircraft and its surroundings.
 

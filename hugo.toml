@@ -2,5 +2,4 @@ baseURL = "https://militarytechnologies.netlify.app/"
 languageCode = "en-us"
 title = "Military Technologies"
 theme = "dimension"
-
-custom_css = ["assets/css/custom.css"]
+googleAnalytics = "G-M9NPMMNJS4"
