@@ -1,4 +1,4 @@
-baseURL = "https://militarytechnologies.ml/"
+baseURL = "http://hugo-sandro-naviamold.vercel.app/"
 languageCode = "en-us"
 title = "Military Technologies"
 theme = "dimension"
